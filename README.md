@@ -10,7 +10,7 @@
 
 # :sparkles: PoliceCenter-Web :sparkles:
 
-'''
+```
     {
       "name": "PolicyCenter-Web",
       "version": "2.1.1",
@@ -50,4 +50,4 @@
         "webpack-dev-server": "^2.4.5"
       }
     }
-'''
+```
